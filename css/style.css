@@ -1,0 +1,28 @@
+:root {
+    --bol-dark: #474b54;
+    --bol-primary: #f6f8f9;
+    --bol-1st: #47adf1;
+    --bol-2nd: #9c72e4;
+    --bol-3rd: #64c0a9;
+    --bol-4th: #f29e33;
+    --bol-5th: #d863a1;
+    --bol-6th: #bbd044;
+    --bol-7th: #9edacd;
+    --bol-8th: #f0807a;
+    --bol-9th: #d8dcdf;
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+.logo_text {
+    font-family: Arial, sans-serif ;
+    font-size: 2rem;
+}
+
