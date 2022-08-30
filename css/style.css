@@ -71,7 +71,6 @@ header {
     background-color: white;
     width: 60%;
     margin: auto;
-    
     border-radius: 3px;
     font-family: Arial, sans-serif ;
     color: #474b54;
@@ -131,4 +130,15 @@ header {
 
 .mobile {
     background-color: #f29e33;
+}
+
+.upcoming {
+}
+
+.website {
+    background-color: #d863a1;
+}
+
+.sales {
+    background-color: #bbd044;
 }
