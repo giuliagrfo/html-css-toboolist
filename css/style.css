@@ -42,6 +42,7 @@ header {
     margin: auto;
     margin-top: 30px;
     border-radius: 3px;
+    margin-bottom: 2px;
 }
 
 .task {
@@ -70,7 +71,7 @@ header {
     background-color: white;
     width: 60%;
     margin: auto;
-    margin-top: 2px;
+    
     border-radius: 3px;
     font-family: Arial, sans-serif ;
     color: #474b54;
@@ -85,6 +86,10 @@ header {
     margin-top: 30px;
 }
 
+.item {
+    margin-top: 15px;
+}
+
 .check {
     display: inline-block;
     border-radius: 50%;
@@ -96,11 +101,12 @@ header {
     line-height: 20px;
 }
 
-
-
+.x {
+    border: 1px solid #f0807a;
+    color: #f0807a;
+}
 
 .badge {
-    background-color: #47adf1;
     color: white;
     display: inline-block;
     font-size: 10px;
@@ -111,3 +117,18 @@ header {
     line-height: 20px;
 }
 
+.editorial {
+    background-color: #47adf1;
+}
+
+.q1 {
+    background-color: #9c72e4;
+}
+
+.recruiting {
+    background-color: #64c0a9;
+}
+
+.mobile {
+    background-color: #f29e33;
+}
