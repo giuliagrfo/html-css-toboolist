@@ -96,8 +96,7 @@ header {
     border-radius: 50%;
     border: 1px solid #9edacd;
     color: #9edacd;
-    width: 20px;
-    height: 20px;
+    padding: 1px 5px;
     text-align: center;
     line-height: 20px;
 }
