@@ -26,3 +26,40 @@
     font-size: 2rem;
 }
 
+#site_main {
+    background-color: #f6f8f9;
+    height: 100%;
+}
+
+.buttons {
+    background-color: white;
+    width: 60%;
+    height: 50px;
+    margin: auto;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.task {
+    background-color: #47adf1;
+    width: 80px;
+    height: 30px;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    margin-left: 50px;
+}
+
+.section {
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #d8dcdf;
+    color: #d8dcdf;
+}
+
+
+
