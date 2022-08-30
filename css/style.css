@@ -23,16 +23,20 @@ body {
 }
 
 header {
+    padding-top: 8px;
+    padding-bottom: 8px;
     background-color: white;
 }
 
 .logo {
+    margin-left: 20px;
     vertical-align: middle;
+    width: 60px;
 }
 
 .logo_text {
     font-family: Arial, sans-serif ;
-    font-size: 2rem;
+    font-size: 35px;
 }
 
 .buttons {
@@ -48,8 +52,7 @@ header {
 .task {
     margin-top: 10px;
     background-color: #47adf1;
-    width: 80px;
-    height: 30px;
+    padding: 5px 10px;
     border: 0;
     border-radius: 5px;
     color: white;
@@ -59,8 +62,7 @@ header {
 .section {
     margin-top: 10px;
     background-color: white;
-    width: 100px;
-    height: 30px;
+    padding: 5px 10px;
     border-radius: 5px;
     border: 1px solid #d8dcdf;
     color: #d8dcdf;
